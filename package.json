@@ -1,0 +1,20 @@
+{
+  "name": "hw49",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2hw49.js",
+  "dependencies": {
+    "figlet": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/jrafgan/hw49.git"
+  },
+  "author": "Maksat Duishenaliev",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/jrafgan/hw49#readme"
+}
